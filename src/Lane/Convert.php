@@ -1,6 +1,6 @@
 <?php
 
-namespace DocsHorizon\Lane;
+namespace AndraZero121\DocsHorizon\Lane;
 
 class Convert
 {

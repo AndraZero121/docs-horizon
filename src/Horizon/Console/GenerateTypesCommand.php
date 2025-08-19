@@ -1,6 +1,6 @@
 <?php
 
-namespace DocsHorizon\Horizon\Console;
+namespace AndraZero121\DocsHorizon\Horizon\Console;
 
 use Illuminate\Console\Command;
 use DocsHorizon\Lane\Convert;

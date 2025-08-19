@@ -1,6 +1,6 @@
 <?php
 
-namespace DocsHorizon\Horizon;
+namespace AndraZero121\DocsHorizon\Horizon;
 
 use Illuminate\Support\ServiceProvider;
 use DocsHorizon\Horizon\Console\GenerateTypesCommand;
