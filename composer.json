@@ -1,0 +1,33 @@
+{
+    "name": "andrazero121/docs-horizon",
+    "description": "Generate Frontend type definitions from Laravel Backend structure.",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^12.25",
+        "illuminate/console": "^12.25",
+        "illuminate/database": "^12.25",
+        "phpunit/phpunit": "^11.5",
+        "orchestra/testbench": "^10.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AndraZero121\\DocsHorizon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AndraZero121"
+        }
+    ],
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Horizon\\DocsHorizonServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
