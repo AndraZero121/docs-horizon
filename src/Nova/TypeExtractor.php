@@ -1,6 +1,6 @@
 <?php
 
-namespace Nova;
+namespace DocsHorizon\Nova;
 
 use Illuminate\Support\Facades\File;
 

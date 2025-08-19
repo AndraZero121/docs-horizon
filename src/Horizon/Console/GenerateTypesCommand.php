@@ -1,12 +1,12 @@
 <?php
 
-namespace Horizon\Console;
+namespace DocsHorizon\Horizon\Console;
 
 use Illuminate\Console\Command;
-use Lane\Convert;
-use Nova\TypeExtractor;
-use Helvetica\FileGenerator;
-use Rafflesia\ModelAnalyzer;
+use DocsHorizon\Lane\Convert;
+use DocsHorizon\Nova\TypeExtractor;
+use DocsHorizon\Helvetica\FileGenerator;
+use DocsHorizon\Rafflesia\ModelAnalyzer;
 
 class GenerateTypesCommand extends Command
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Rafflesia;
+namespace DocsHorizon\Rafflesia;
 
 use Illuminate\Support\Facades\File;
 use ReflectionClass;

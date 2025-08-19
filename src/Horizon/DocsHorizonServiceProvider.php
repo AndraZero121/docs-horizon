@@ -1,9 +1,9 @@
 <?php
 
-namespace Horizon;
+namespace DocsHorizon\Horizon;
 
 use Illuminate\Support\ServiceProvider;
-use Horizon\Console\GenerateTypesCommand;
+use DocsHorizon\Horizon\Console\GenerateTypesCommand;
 
 class DocsHorizonServiceProvider extends ServiceProvider
 {

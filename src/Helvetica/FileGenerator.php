@@ -1,6 +1,6 @@
 <?php
 
-namespace Helvetica;
+namespace DocsHorizon\Helvetica;
 
 use Illuminate\Support\Facades\File;
 
