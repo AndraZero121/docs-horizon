@@ -3,7 +3,7 @@
 namespace AndraZero121\DocsHorizon\Horizon;
 
 use Illuminate\Support\ServiceProvider;
-use DocsHorizon\Horizon\Console\GenerateTypesCommand;
+use AndraZero121\DocsHorizon\Horizon\Console\GenerateTypesCommand;
 
 class DocsHorizonServiceProvider extends ServiceProvider
 {

@@ -3,10 +3,10 @@
 namespace AndraZero121\DocsHorizon\Horizon\Console;
 
 use Illuminate\Console\Command;
-use DocsHorizon\Lane\Convert;
-use DocsHorizon\Nova\TypeExtractor;
-use DocsHorizon\Helvetica\FileGenerator;
-use DocsHorizon\Rafflesia\ModelAnalyzer;
+use AndraZero121\DocsHorizon\Lane\Convert;
+use AndraZero121\DocsHorizon\Nova\TypeExtractor;
+use AndraZero121\DocsHorizon\Helvetica\FileGenerator;
+use AndraZero121\DocsHorizon\Rafflesia\ModelAnalyzer;
 
 class GenerateTypesCommand extends Command
 {
